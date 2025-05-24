@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Test accounts related QA APIs "
+  contactDetails:
+    name: "test-QA"
+    email: "test@qa.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
